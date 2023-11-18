@@ -1,0 +1,15 @@
+.itemList {
+    margin: 24px;
+}
+
+.itemList strong {
+    color: #539BF5;
+    font: 400 24px Ubuntu, sans-serif;
+    margin: 24px 0 24px 0;
+}
+
+.itemList p {
+    color: #999;
+    font: 400 18px Ubuntu, sans-serif;
+    margin-top: 20px;
+}

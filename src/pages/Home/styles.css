@@ -71,3 +71,11 @@ button {
     border: 2px solid #E5E5E5;
     margin-right: 32px;
 }
+
+.repos {
+    font: 500 32px Ubuntu, sans-serif;
+    color: #ffffff;
+    margin: 12px;
+    text-align: center;
+
+}
