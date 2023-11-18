@@ -1,0 +1,17 @@
+header {
+    background-color: #2D333B;
+    height: 70px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: #FFF;
+    font-family: 'Ubuntu, sans serif';
+    font-size: 24x;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
