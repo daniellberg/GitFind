@@ -46,7 +46,7 @@ button {
 
 .perfil h3 {
     color: #999;
-    font-family: 'Ubuntu, sans-serif';
+    font: 400 24px Ubuntu, sans-serif;
     font-size: 24px;
     margin: 0;
 }
@@ -54,15 +54,13 @@ button {
 .perfil span {
     display: block;
     color: #999;
-    font-family: 'Ubuntu, sans-serif';
-    font-size: 18px;
-    margin: 0;
+    font: 400 18px Ubuntu, sans-serif;
+    margin: 5px 0 0 0;
 }
 
 .perfil p {
     color: #999;
-    font-family: 'Ubuntu, sans-serif';
-    font-size: 18px;
+    font: 400 18px Ubuntu, sans-serif;
     margin: 20px 0 0 0;
 }
 

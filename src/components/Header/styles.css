@@ -9,9 +9,7 @@ header {
 
 h1 {
     color: #FFF;
-    font-family: 'Ubuntu, sans serif';
-    font-size: 24x;
+    font: 700 30px Ubuntu, sans-serif;
     font-style: normal;
-    font-weight: 700;
     line-height: normal;
 }
