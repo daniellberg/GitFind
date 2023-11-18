@@ -45,6 +45,8 @@ function App() {
             <button onClick={handleGetData}>Buscar</button>
           </div>
 
+          
+
           {currentUser?.name ? (
             <>
               <div className="perfil">
@@ -57,7 +59,12 @@ function App() {
               </div>
               <hr />
             </>
-          ) : null}
+          ) : 
+          <div className="noUser">
+            <h4>No user found :(</h4>
+            <h4>Please try again!</h4>
+          </div>
+          }
 
           {repos?.length ? (
             <div className="listRepos">

@@ -80,10 +80,14 @@ button:hover {
     margin-right: 32px;
 }
 
-.repos {
+.repos, .noUser {
     font: 500 32px Ubuntu, sans-serif;
     color: #ffffff;
     margin: 12px;
     text-align: center;
+}
 
+.noUser{
+    width: 70%;
+    margin-top: 5em;
 }
